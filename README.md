@@ -10,7 +10,7 @@
 -->
 
 # Remove commit history
-
+f
 Accidental commits can be tricky to remove with Git. In this GitHub Skills course, you'll use BFG Repo-Cleaner to change the history of a Git repository. You can apply what you learn in this course to fully remove sensitive material from your own repository.
 
 </header>
